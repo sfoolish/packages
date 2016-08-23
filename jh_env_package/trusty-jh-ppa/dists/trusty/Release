@@ -1,0 +1,16 @@
+Codename: trusty
+Date: Mon, 22 Aug 2016 19:16:18 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ 9379ba380f088f1f031e6eeabdc3ef72 283399 main/binary-amd64/Packages
+ 50698f66067a2b45bf3110230b1cf2e6 81624 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ ee622eb01dd9544c8ba9f7860140660c221774d2 283399 main/binary-amd64/Packages
+ d04c896e3cbb0f687c9c615115d1700b3c773f88 81624 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ bed550dbb4888eef5346eb2316ac1ea9d7dd910aa3da1d898fa92130b2c8b95c 283399 main/binary-amd64/Packages
+ 93b4f6028bb257160192e64b333f4bb919413f5690eb1fc6c83568df12ae68e3 81624 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
